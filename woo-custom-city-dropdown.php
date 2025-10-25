@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: WooCommerce Custom City Dropdown
- * Plugin URI: https://yoursite.com
+ * Plugin URI: https://jim-newaz.is-a.dev/
  * Description: Replaces the default city field with a dropdown of specific Virginia cities organized by region
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://yoursite.com
+ * Author: Sayed Noor E Newaz
+ * Author URI: https://jim-newaz.is-a.dev/
  * License: GPL v2 or later
  * Text Domain: woo-custom-city
  * Requires at least: 5.0
